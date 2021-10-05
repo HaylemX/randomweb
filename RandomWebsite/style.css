@@ -1,0 +1,156 @@
+body {
+    background:black;
+    background-position-x: 0px;
+    overflow-x: hidden;
+}
+
+
+
+
+.line1 {
+    height:1130px;
+    width:42.7%;
+    background: rgba(93, 192, 196, 0.534);
+    position: absolute;
+    color:rgb(255, 255, 255);
+    margin-top: -1133px;
+    text-align:center;
+    font-size:125px;
+    font-family: 'Cinzel', serif;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 20px #000708;
+    line-height:125px;
+    left: 903px;
+
+    
+
+    
+    
+
+}
+.line2 {
+    height:4px;
+    width:90%;
+    background: #d63636;
+    margin-top: -890px;
+    position: absolute;
+    text-align: left;
+    color: white;
+    transform: rotate(90deg);
+    left: 41.5px;
+    z-index: 2;
+    
+}
+
+.line3 {
+    height:980px;
+    width:46.7%;
+    background:rgba(93, 192, 196, 0.534);
+    position: absolute;
+    color: white;
+    margin-top: -1133px;
+    text-align:center;
+    font-size:125px;
+    font-family: 'Cinzel', serif;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 20px #000000;
+    line-height:125px;
+    left: 8px;
+    
+}
+
+
+
+.header1 {
+    text-align:center;
+    font-size:5em;
+    letter-spacing:30px;
+    color: #0e3742;
+    text-transform: uppercase;
+    width:101.8%;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #0004)
+    ;
+    transform: rotate(-90deg);
+    line-height: 0.7em;
+    outline:none;
+    animation: animate 5s linear infinite;
+    margin-top: px;
+    margin-left: 719px;
+    z-index: 3;
+}
+@keyframes animate 
+{
+    0%,18%,20%,50.1%,60%,65.1%,80%,90.1%,92%
+        {
+            color: #000911;
+            box-shadow:none;
+        }
+    18.1%,20.1%,30%,50%,60.1%,65%,80.1%,90%,92.1%,100%
+{
+    color: #fff;
+    text-shadow: 0 0 10px #03bcf4,
+                 0 0 20px #03bcf4,
+                 0 0 40px #03bcf4,
+                 0 0 80px #03bcf4,
+                 0 0 160px #03bcf4;
+}
+}
+.logo {
+    margin-left:650px;
+    margin-right: 10px;
+    margin-top: -1818px;
+    display:block;
+    height:400px;
+    
+    
+}
+
+
+
+.container {
+    width:80%;
+    margin: 0 auto;
+}
+
+.hand {
+    margin-top:-200px;
+}
+
+.water {
+    
+}
+
+.algaes {
+    position:absolute;
+    margin-left:899.4px;
+    margin-top: 125px;
+}
+
+.hydrogen {
+    height: 543px;
+    margin-top:125px;
+    position:absolute;
+}
+
+.regbulb {
+    margin-top:200px;
+    margin-left:858px;
+ 
+  
+   
+
+}
+.water {
+    
+}
+
+.innovate_talk {
+    position:absolute;
+    font-size:40px;
+    line-height: 1300px;
+    color:white;
+    left:30px;
+    width: 880px;
+    height:100px;
+    text-shadow: 2px 2px 20px #000000;
+}
